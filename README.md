@@ -1,3 +1,5 @@
+![Sticker de ejemplo](https://pin.it/F8j0bwudT)
+
 # Proyecto Web - Nassus
 
 ## Descripción
