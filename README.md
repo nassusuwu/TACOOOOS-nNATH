@@ -1,4 +1,4 @@
-![Sticker de ejemplo](https://pin.it/F8j0bwudT)
+![Sticker de ejemplo](https://pin.it/1PzTMw6Pu)
 
 # Proyecto Web - Nassus
 
